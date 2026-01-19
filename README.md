@@ -1,16 +1,16 @@
-## Hi there 👋
+# Security Practitioner Portfolio
 
-<!--
-**mjarah/mjarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Mission Statement
+Security-focused technologist specializing in system hardening,
+access control validation, and network traffic analysis.
 
-Here are some ideas to get you started:
+## Core Competencies
+- Operating Systems: Linux, Windows
+- Security Tools: UFW, Nmap, Wireshark
+- Languages: Bash, Python
+- Security Domains: IAM, Perimeter Security, Network Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Technical Engagements
+- Perimeter Security Orchestration & Ingress Control
+- Network Traffic Analysis & Protocol Auditing
+- Identity & Access Management (IAM) Hardening
